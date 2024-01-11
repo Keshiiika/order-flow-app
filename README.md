@@ -1,3 +1,16 @@
+## Screen Shots
+![image](https://github.com/Keshiiika/order-flow-app/assets/121313188/a19ff5bb-6741-4438-97cf-d0c463a48b8a)
+
+![image](https://github.com/Keshiiika/order-flow-app/assets/121313188/841b342d-22ca-44f9-a085-b7dbdfdb0beb)
+
+![image](https://github.com/Keshiiika/order-flow-app/assets/121313188/18b23919-4fde-4f92-bd70-f48ff5d0e066)
+
+![image](https://github.com/Keshiiika/order-flow-app/assets/121313188/dc73b1a2-3040-471d-b1f0-43a08717a45d)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
