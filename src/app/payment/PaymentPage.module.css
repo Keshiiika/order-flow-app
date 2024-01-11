@@ -1,0 +1,15 @@
+PaymentPage.module.css
+
+.paymentDetailsContainer {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.5s ease-out;
+}
+
+.cardDetails {
+  max-height: 500px; /* Adjust the maximum height as needed */
+}
+
+.upiDetails {
+  max-height: 500px; /* Adjust the maximum height as needed */
+}
